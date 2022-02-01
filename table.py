@@ -9,4 +9,3 @@ for i in range(1,21):
   #    print("3 x {0} = {1}".format(i,3*i))
    #  }
 
-
